@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="index.php" server="192.168.1.144" local="132396325360524644" remote="132397582200000000" Dst="0" />
+<file name="AuthController.php" server="192.168.1.144" local="132397512707962451" remote="132397582200000000" Dst="0" />
+<file name="CookieController.php" server="192.168.1.144" local="132390278681704869" remote="132397582200000000" Dst="0" />
+<file name="DatabaseConnection.php" server="192.168.1.144" local="132397529976063439" remote="132397584000000000" Dst="0" />
+<file name="FunctionsController.php" server="192.168.1.144" local="132391976928559198" remote="132397582200000000" Dst="0" />
+<file name="SessionHandler.php" server="192.168.1.144" local="132390285963017006" remote="132397582200000000" Dst="0" />
+<file name="SessManager.php" server="192.168.1.144" local="132392290922146881" remote="132397582200000000" Dst="0" />
+<file name="Settings.php" server="192.168.1.144" local="132390278003810534" remote="132397582200000000" Dst="0" />
+<file name="LogoutController.php" server="192.168.1.144" local="132392818441704790" remote="132397582200000000" Dst="0" />
+<file name="test.php" server="192.168.1.144" local="132390567864089413" remote="132397582200000000" Dst="0" />
+<file name="CookieController.php" server="qista.frestive.online" local="132390278681704869" remote="132397893600000000" Dst="0" />
+<file name="AuthController.php" server="qista.frestive.online" local="132398119544914786" remote="132397975200000000" Dst="0" />
+<file name="FunctionsController.php" server="qista.frestive.online" local="132391976928559198" remote="132397893600000000" Dst="0" />
+<file name="DatabaseConnection.php" server="qista.frestive.online" local="132398028155641661" remote="132397893600000000" Dst="0" />
+<file name="index.php" server="qista.frestive.online" local="132396325360524644" remote="132397893600000000" Dst="0" />
+<file name="LogoutController.php" server="qista.frestive.online" local="132392818441704790" remote="132397893600000000" Dst="0" />
+<file name="SessionHandler.php" server="qista.frestive.online" local="132390285963017006" remote="132397893600000000" Dst="0" />
+<file name="test.php" server="qista.frestive.online" local="132390567864089413" remote="132397893600000000" Dst="0" />
+<file name="SessManager.php" server="qista.frestive.online" local="132392290922146881" remote="132397893600000000" Dst="0" />
+<file name="Settings.php" server="qista.frestive.online" local="132390278003810534" remote="132397893600000000" Dst="0" />
+<file name="HomePageController.php" server="qista.frestive.online" local="132398374282879112" remote="132398230200000000" Dst="0" />
+<file name="RegisterNameController.php" server="qista.frestive.online" local="132399752147978748" remote="132399608400000000" Dst="0" />
+</dwsync>

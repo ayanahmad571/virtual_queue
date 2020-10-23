@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BinaryValue.php" server="192.168.1.144" local="132394833750000000" remote="132397561800000000" Dst="0" />
+<file name="DynamoDbClient.php" server="192.168.1.144" local="132394833750000000" remote="132397561800000000" Dst="0" />
+<file name="LockingSessionConnection.php" server="192.168.1.144" local="132394833750000000" remote="132397561800000000" Dst="0" />
+<file name="Marshaler.php" server="192.168.1.144" local="132394833750000000" remote="132397561800000000" Dst="0" />
+<file name="NumberValue.php" server="192.168.1.144" local="132394833750000000" remote="132397561800000000" Dst="0" />
+<file name="SessionConnectionConfigTrait.php" server="192.168.1.144" local="132394833750000000" remote="132397561800000000" Dst="0" />
+<file name="SessionConnectionInterface.php" server="192.168.1.144" local="132394833750000000" remote="132397561800000000" Dst="0" />
+<file name="SessionHandler.php" server="192.168.1.144" local="132394833750000000" remote="132397561800000000" Dst="0" />
+<file name="SetValue.php" server="192.168.1.144" local="132394833750000000" remote="132397561800000000" Dst="0" />
+<file name="StandardSessionConnection.php" server="192.168.1.144" local="132394833750000000" remote="132397561800000000" Dst="0" />
+<file name="WriteRequestBatch.php" server="192.168.1.144" local="132394833750000000" remote="132397561800000000" Dst="0" />
+</dwsync>

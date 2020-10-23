@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractMonitoringMiddleware.php" server="192.168.1.144" local="132394833750000000" remote="132397560600000000" Dst="0" />
+<file name="ApiCallAttemptMonitoringMiddleware.php" server="192.168.1.144" local="132394833750000000" remote="132397560600000000" Dst="0" />
+<file name="ApiCallMonitoringMiddleware.php" server="192.168.1.144" local="132394833750000000" remote="132397560600000000" Dst="0" />
+<file name="Configuration.php" server="192.168.1.144" local="132394833750000000" remote="132397560600000000" Dst="0" />
+<file name="ConfigurationInterface.php" server="192.168.1.144" local="132394833750000000" remote="132397560600000000" Dst="0" />
+<file name="ConfigurationProvider.php" server="192.168.1.144" local="132394833750000000" remote="132397560600000000" Dst="0" />
+<file name="MonitoringMiddlewareInterface.php" server="192.168.1.144" local="132394833750000000" remote="132397560600000000" Dst="0" />
+<file name="ApiCallMonitoringMiddleware.php" server="qista.frestive.online" local="132394833750000000" remote="132397895400000000" Dst="0" />
+<file name="AbstractMonitoringMiddleware.php" server="qista.frestive.online" local="132394833750000000" remote="132397895400000000" Dst="0" />
+<file name="ApiCallAttemptMonitoringMiddleware.php" server="qista.frestive.online" local="132394833750000000" remote="132397895400000000" Dst="0" />
+<file name="ConfigurationInterface.php" server="qista.frestive.online" local="132394833750000000" remote="132397895400000000" Dst="0" />
+<file name="Configuration.php" server="qista.frestive.online" local="132394833750000000" remote="132397895400000000" Dst="0" />
+<file name="ConfigurationProvider.php" server="qista.frestive.online" local="132394833750000000" remote="132397895400000000" Dst="0" />
+<file name="MonitoringMiddlewareInterface.php" server="qista.frestive.online" local="132394833750000000" remote="132397895400000000" Dst="0" />
+</dwsync>
